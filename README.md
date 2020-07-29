@@ -5,7 +5,7 @@ Home: https://ModelOriented.github.io/ingredients/, https://github.com/ModelOrie
 
 Package license: GPL-3
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Collection of tools for assessment of feature importance and feature effects. Key functions are: feature_importance() for assessment of global level feature importance, ceteris_paribus() for calculation of the what-if plots, partial_dependence() for partial dependence plots, conditional_dependence() for conditional dependence plots, accumulated_dependence() for accumulated local effects plots, aggregate_profiles() and cluster_profiles() for aggregation of ceteris paribus profiles, generic print() and plot() for better usability of selected explainers, generic plotD3() for interactive, D3 based explanations, and generic describe() for explanations in natural language. The package 'ingredients' is a part of the 'DrWhy.AI' universe (Biecek 2018) <arXiv:1806.08915>.
 
