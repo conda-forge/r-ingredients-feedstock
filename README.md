@@ -3,7 +3,7 @@ About r-ingredients
 
 Home: https://ModelOriented.github.io/ingredients/, https://github.com/ModelOriented/ingredients
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: BSD-3-Clause
 
