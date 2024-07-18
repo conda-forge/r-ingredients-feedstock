@@ -1,6 +1,5 @@
 {% set version = "2.3.0" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ingredients
@@ -13,8 +12,7 @@ source:
   sha256: ebe4b3367965ed364cd1e9ef406d253512c95228c683084d020a09b6609b7d4b
 
 build:
-  merge_build_host: true  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
